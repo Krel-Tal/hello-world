@@ -1,2 +1,6 @@
 # hello-world
-Just Another Repository
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had teacos on the moon and find them far superiour to Earth tacos.
